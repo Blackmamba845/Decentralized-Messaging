@@ -12,6 +12,7 @@ Built with Rust and the Soroban SDK, the contract is designed to be minimal, gas
 
 <img width="1919" height="662" alt="image" src="https://github.com/user-attachments/assets/07e659fb-d002-4dea-b066-b915d98ff91f" />
 
+<img width="1919" height="998" alt="image" src="https://github.com/user-attachments/assets/fa227afb-b652-4b2f-a525-1fcd07a8374e" />
 
 ---
 
